@@ -2,9 +2,7 @@
 This project implements a Deterministic Finite Automaton (DFA) to check whether a given string is a valid number or not. The problem can be found on LeetCode under the name "Valid Number." Difficulty : Hard
 
 ---
-[Video](https://drive.google.com/drive/folders/1usDtiu5BoR-dehTT_N-e-xcZPz_qoMJY?usp=sharing)
----
-[ENTITY RELATIONSHIP DIAGRAM](https://lucid.app/lucidchart/3f0c17de-1b55-4729-8945-2140ddeedbbb/edit?viewport_loc=685%2C-1785%2C2742%2C1419%2C0_0&invitationId=inv_0aa3e9ee-676e-4fe5-950b-ba7ebe7414ce)
+[VIDEO DEMOSNTRATION](https://drive.google.com/drive/folders/1usDtiu5BoR-dehTT_N-e-xcZPz_qoMJY?usp=sharing)
 ---
 
 ## FSM Overview
