@@ -1,5 +1,5 @@
 # isValidNumber
-This is just a simple application of DFA to check whether a given string is a valid number or not. The problem can be found on LeetCode named "Valid Number".
+This project implements a Deterministic Finite Automaton (DFA) to check whether a given string is a valid number or not. The problem can be found on LeetCode under the name "Valid Number." Difficulty : Hard
 
 ## FSM Overview
 - **q0**: Start state.
@@ -40,3 +40,5 @@ This is just a simple application of DFA to check whether a given string is a va
 | `q7`           | Digit          | `q7`        |
 | `q7`           | Any other      | `q_dead`    |
 | `q_dead`       | Any input      | `q_dead`    |
+
+[Video]
