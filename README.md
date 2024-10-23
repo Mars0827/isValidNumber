@@ -41,5 +41,6 @@ This project implements a Deterministic Finite Automaton (DFA) to check whether 
 | `q7`           | Any other      | `q_dead`    |
 | `q_dead`       | Any input      | `q_dead`    |
 
+***
 ---
 [Video](https://drive.google.com/drive/folders/1usDtiu5BoR-dehTT_N-e-xcZPz_qoMJY?usp=sharing)
