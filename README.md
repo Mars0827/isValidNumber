@@ -1,6 +1,9 @@
 # isValidNumber
 This project implements a Deterministic Finite Automaton (DFA) to check whether a given string is a valid number or not. The problem can be found on LeetCode under the name "Valid Number." Difficulty : Hard
 
+---
+[Video](https://drive.google.com/drive/folders/1usDtiu5BoR-dehTT_N-e-xcZPz_qoMJY?usp=sharing)
+
 ## FSM Overview
 - **q0**: Start state.
 - **q1**: Sign state (after reading `+` or `-`).
@@ -41,6 +44,5 @@ This project implements a Deterministic Finite Automaton (DFA) to check whether 
 | `q7`           | Any other      | `q_dead`    |
 | `q_dead`       | Any input      | `q_dead`    |
 
-***
----
-[Video](https://drive.google.com/drive/folders/1usDtiu5BoR-dehTT_N-e-xcZPz_qoMJY?usp=sharing)
+
+
